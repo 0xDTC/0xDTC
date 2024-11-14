@@ -20,8 +20,6 @@ Tanveer thrives both independently and within collaborative, open-minded teams. 
 | **2022 – Present** | Monotype Solutions India Private Limited            | Security Engineer    | - Conducted penetration tests on APIs, web applications, networks, and cloud infrastructure, including AI LLM integrations. <br> - Developed threat models to identify attack vectors. <br> - Crafted and executed mitigation plans to meet SLAs and reduce attack surfaces. <br> - Acted as a security coordinator to prioritize findings and facilitate threat modeling. <br> - Led vulnerability scans for early detection and rapid remediation. <br> **Impact**: Enhanced security maturity, promoted proactive awareness, and implemented vulnerability management processes. | Noida, India |
 | **2018 – 2022**    | Confidential Clients (ERP, Hospital Network, E-commerce) | Penetration Tester | - Performed advanced penetration tests on web applications and networks, identifying vulnerabilities like XSS, IDOR, and authentication bypasses. <br> - Leveraged tools like Burp Suite, Acunetix, Nessus, OWASP ZAP, and Metasploit for vulnerability scans and threat exploitation. <br> - Provided stakeholders with actionable recommendations and secure coding guidance. <br> - Collaborated with development teams following OWASP standards to enhance security practices. <br> - Mentored junior IT team members, introducing automated testing frameworks for efficient assessments. | US, India      |
 
----
-
 <!-- 
 # Achievements
 
