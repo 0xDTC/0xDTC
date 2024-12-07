@@ -11,8 +11,6 @@
 
 Tanveer thrives both independently and within collaborative, open-minded teams. Currently, he’s contributing his expertise to a talented group of professionals. His dedication to continual learning, combined with his commitment to excellence, makes him a valuable asset in any security-focused role. Known for his friendliness and dedication, Tanveer is not only a reliable teammate but also an ideal candidate for roles that require hard work and strategic thinking.
 
----
-
 # Professional Experience
 
 | **Year**           | **Company**                                         | **Role**             | **Key Responsibilities**                                                                                                  | **Location**    |
@@ -28,8 +26,6 @@ Tanveer thrives both independently and within collaborative, open-minded teams. 
 ![Badge 1](https://academy.hackthebox.com/achievement/badge/a0705c75-9f3f-11ee-bfb6-bea50ffe6cb4) ![Badge 2](https://academy.hackthebox.com/achievement/badge/9994f6ac-c408-11ed-acfc-bea50ffe6cb4) ... (continue listing badges here)
 -->
 
----
-
 # Education
 
 | **Year**           | **Institution**                       | **Course**                               |
@@ -37,8 +33,6 @@ Tanveer thrives both independently and within collaborative, open-minded teams. 
 | 2018 – 2021        | Chandigarh Group of Colleges          | Bachelor of Computer Applications        |
 | 2017 – 2018        | ATL Education                         | Diploma in Information Security (6 months) |
 | 2014 – 2016        | Guru Nanak Khalsa School             | High School Studies (+2)                 |
-
----
 
 # Skills
 
@@ -53,8 +47,6 @@ Tanveer thrives both independently and within collaborative, open-minded teams. 
 | Network Testing                  | Checkmarx SAST                   | Tenable                           |                        |                          |
 | AI LLM Testing                   | Checkmarx SCA                    | Nessus                            |                        |                          |
 |                                  |                                  | Postman                           |                        |                          |
-
----
 
 # Interests
 
