@@ -1,6 +1,6 @@
 # Profile Owner
 
-👋 **Hi there!** Meet **Tanveer Singh** (also known as **Divine Clown**). Tanveer is a seasoned Security Engineer with a passion for cybersecurity. With over 10 years of self-learning and more than 2 years of corporate experience, he has developed a strong proficiency in:
+👋 **Hi there!** Meet **Tanveer Singh** (also known as **0xDTC** or **Divine Clown**). Tanveer is a seasoned Security Engineer with a passion for cybersecurity. With over 10 years of self-learning and more than 2 years of corporate experience, he has developed a strong proficiency in:
 
 - **Web Security Assessment**
 - **API Testing**
