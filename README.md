@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/0xDTC"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a knowledge&emoji=📖&slug=0xDTC&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 # Profile Owner
 
 👋 **Hi there!** Meet **Tanveer Singh** (also known as **0xDTC** or **Divine Clown**). Tanveer is a seasoned Security Engineer with a passion for cybersecurity. With over 10 years of self-learning and more than 2 years of corporate experience, he has developed a strong proficiency in:
